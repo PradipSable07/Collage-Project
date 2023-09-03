@@ -40,9 +40,6 @@ operation system has a built-in key-logger in its final version ―to improve ty
 services‖. However, malicious individuals can use key-loggers on public computers to steal
 passwords or credit card information. Most key-loggers are not stopped by HTTPSencryption
 because that only protects data in transit between computers, thus the threat being from the
-<<<<<<< HEAD
 user's computer.
-=======
-user's computer.
->>>>>>> d0860805167a7e4c67839c0e1d63d12b5619bb78
+
 
